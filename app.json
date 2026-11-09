@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Cristofell Pizzaria",
+    "slug": "cristofell-pizzaria",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "web": { "bundler": "metro" }
+  }
+}
